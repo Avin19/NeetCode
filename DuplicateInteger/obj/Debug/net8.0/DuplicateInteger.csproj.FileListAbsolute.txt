@@ -1,0 +1,15 @@
+F:\DSA roadmap\DuplicateInteger\bin\Debug\net8.0\DuplicateInteger.exe
+F:\DSA roadmap\DuplicateInteger\bin\Debug\net8.0\DuplicateInteger.deps.json
+F:\DSA roadmap\DuplicateInteger\bin\Debug\net8.0\DuplicateInteger.runtimeconfig.json
+F:\DSA roadmap\DuplicateInteger\bin\Debug\net8.0\DuplicateInteger.dll
+F:\DSA roadmap\DuplicateInteger\bin\Debug\net8.0\DuplicateInteger.pdb
+F:\DSA roadmap\DuplicateInteger\obj\Debug\net8.0\DuplicateInteger.GeneratedMSBuildEditorConfig.editorconfig
+F:\DSA roadmap\DuplicateInteger\obj\Debug\net8.0\DuplicateInteger.AssemblyInfoInputs.cache
+F:\DSA roadmap\DuplicateInteger\obj\Debug\net8.0\DuplicateInteger.AssemblyInfo.cs
+F:\DSA roadmap\DuplicateInteger\obj\Debug\net8.0\DuplicateInteger.csproj.CoreCompileInputs.cache
+F:\DSA roadmap\DuplicateInteger\obj\Debug\net8.0\DuplicateInteger.sourcelink.json
+F:\DSA roadmap\DuplicateInteger\obj\Debug\net8.0\DuplicateInteger.dll
+F:\DSA roadmap\DuplicateInteger\obj\Debug\net8.0\refint\DuplicateInteger.dll
+F:\DSA roadmap\DuplicateInteger\obj\Debug\net8.0\DuplicateInteger.pdb
+F:\DSA roadmap\DuplicateInteger\obj\Debug\net8.0\DuplicateInteger.genruntimeconfig.cache
+F:\DSA roadmap\DuplicateInteger\obj\Debug\net8.0\ref\DuplicateInteger.dll
