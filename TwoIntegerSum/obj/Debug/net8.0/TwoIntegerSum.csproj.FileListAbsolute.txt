@@ -1,0 +1,15 @@
+F:\DSA roadmap\TwoIntegerSum\bin\Debug\net8.0\TwoIntegerSum.exe
+F:\DSA roadmap\TwoIntegerSum\bin\Debug\net8.0\TwoIntegerSum.deps.json
+F:\DSA roadmap\TwoIntegerSum\bin\Debug\net8.0\TwoIntegerSum.runtimeconfig.json
+F:\DSA roadmap\TwoIntegerSum\bin\Debug\net8.0\TwoIntegerSum.dll
+F:\DSA roadmap\TwoIntegerSum\bin\Debug\net8.0\TwoIntegerSum.pdb
+F:\DSA roadmap\TwoIntegerSum\obj\Debug\net8.0\TwoIntegerSum.GeneratedMSBuildEditorConfig.editorconfig
+F:\DSA roadmap\TwoIntegerSum\obj\Debug\net8.0\TwoIntegerSum.AssemblyInfoInputs.cache
+F:\DSA roadmap\TwoIntegerSum\obj\Debug\net8.0\TwoIntegerSum.AssemblyInfo.cs
+F:\DSA roadmap\TwoIntegerSum\obj\Debug\net8.0\TwoIntegerSum.csproj.CoreCompileInputs.cache
+F:\DSA roadmap\TwoIntegerSum\obj\Debug\net8.0\TwoIntegerSum.sourcelink.json
+F:\DSA roadmap\TwoIntegerSum\obj\Debug\net8.0\TwoIntegerSum.dll
+F:\DSA roadmap\TwoIntegerSum\obj\Debug\net8.0\refint\TwoIntegerSum.dll
+F:\DSA roadmap\TwoIntegerSum\obj\Debug\net8.0\TwoIntegerSum.pdb
+F:\DSA roadmap\TwoIntegerSum\obj\Debug\net8.0\TwoIntegerSum.genruntimeconfig.cache
+F:\DSA roadmap\TwoIntegerSum\obj\Debug\net8.0\ref\TwoIntegerSum.dll
