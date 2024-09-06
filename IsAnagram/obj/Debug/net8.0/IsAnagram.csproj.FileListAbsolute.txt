@@ -1,0 +1,15 @@
+F:\DSA roadmap\IsAnagram\bin\Debug\net8.0\IsAnagram.exe
+F:\DSA roadmap\IsAnagram\bin\Debug\net8.0\IsAnagram.deps.json
+F:\DSA roadmap\IsAnagram\bin\Debug\net8.0\IsAnagram.runtimeconfig.json
+F:\DSA roadmap\IsAnagram\bin\Debug\net8.0\IsAnagram.dll
+F:\DSA roadmap\IsAnagram\bin\Debug\net8.0\IsAnagram.pdb
+F:\DSA roadmap\IsAnagram\obj\Debug\net8.0\IsAnagram.GeneratedMSBuildEditorConfig.editorconfig
+F:\DSA roadmap\IsAnagram\obj\Debug\net8.0\IsAnagram.AssemblyInfoInputs.cache
+F:\DSA roadmap\IsAnagram\obj\Debug\net8.0\IsAnagram.AssemblyInfo.cs
+F:\DSA roadmap\IsAnagram\obj\Debug\net8.0\IsAnagram.csproj.CoreCompileInputs.cache
+F:\DSA roadmap\IsAnagram\obj\Debug\net8.0\IsAnagram.sourcelink.json
+F:\DSA roadmap\IsAnagram\obj\Debug\net8.0\IsAnagram.dll
+F:\DSA roadmap\IsAnagram\obj\Debug\net8.0\refint\IsAnagram.dll
+F:\DSA roadmap\IsAnagram\obj\Debug\net8.0\IsAnagram.pdb
+F:\DSA roadmap\IsAnagram\obj\Debug\net8.0\IsAnagram.genruntimeconfig.cache
+F:\DSA roadmap\IsAnagram\obj\Debug\net8.0\ref\IsAnagram.dll
