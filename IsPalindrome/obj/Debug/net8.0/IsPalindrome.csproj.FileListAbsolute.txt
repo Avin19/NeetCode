@@ -1,0 +1,15 @@
+F:\DSA roadmap\IsPalindrome\bin\Debug\net8.0\IsPalindrome.exe
+F:\DSA roadmap\IsPalindrome\bin\Debug\net8.0\IsPalindrome.deps.json
+F:\DSA roadmap\IsPalindrome\bin\Debug\net8.0\IsPalindrome.runtimeconfig.json
+F:\DSA roadmap\IsPalindrome\bin\Debug\net8.0\IsPalindrome.dll
+F:\DSA roadmap\IsPalindrome\bin\Debug\net8.0\IsPalindrome.pdb
+F:\DSA roadmap\IsPalindrome\obj\Debug\net8.0\IsPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+F:\DSA roadmap\IsPalindrome\obj\Debug\net8.0\IsPalindrome.AssemblyInfoInputs.cache
+F:\DSA roadmap\IsPalindrome\obj\Debug\net8.0\IsPalindrome.AssemblyInfo.cs
+F:\DSA roadmap\IsPalindrome\obj\Debug\net8.0\IsPalindrome.csproj.CoreCompileInputs.cache
+F:\DSA roadmap\IsPalindrome\obj\Debug\net8.0\IsPalindrome.sourcelink.json
+F:\DSA roadmap\IsPalindrome\obj\Debug\net8.0\IsPalindrome.dll
+F:\DSA roadmap\IsPalindrome\obj\Debug\net8.0\refint\IsPalindrome.dll
+F:\DSA roadmap\IsPalindrome\obj\Debug\net8.0\IsPalindrome.pdb
+F:\DSA roadmap\IsPalindrome\obj\Debug\net8.0\IsPalindrome.genruntimeconfig.cache
+F:\DSA roadmap\IsPalindrome\obj\Debug\net8.0\ref\IsPalindrome.dll
