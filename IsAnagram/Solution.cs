@@ -1,7 +1,7 @@
 // See https://aka.ms/new-console-template for more information
 public class Solution
 {
-    int n = 0;
+
     public bool IsAnagram(string s, string t)
     {
         if (s.Length != t.Length) return false;
@@ -23,9 +23,6 @@ public class Solution
         foreach (int n in store) if (n != 0) return false;
 
         return true;
-
-
-
 
     }
 }
