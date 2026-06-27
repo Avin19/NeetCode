@@ -1,0 +1,15 @@
+F:\DSA roadmap\TempatureConversion\bin\Debug\net9.0\TempatureConversion.exe
+F:\DSA roadmap\TempatureConversion\bin\Debug\net9.0\TempatureConversion.deps.json
+F:\DSA roadmap\TempatureConversion\bin\Debug\net9.0\TempatureConversion.runtimeconfig.json
+F:\DSA roadmap\TempatureConversion\bin\Debug\net9.0\TempatureConversion.dll
+F:\DSA roadmap\TempatureConversion\bin\Debug\net9.0\TempatureConversion.pdb
+F:\DSA roadmap\TempatureConversion\obj\Debug\net9.0\TempatureConversion.GeneratedMSBuildEditorConfig.editorconfig
+F:\DSA roadmap\TempatureConversion\obj\Debug\net9.0\TempatureConversion.AssemblyInfoInputs.cache
+F:\DSA roadmap\TempatureConversion\obj\Debug\net9.0\TempatureConversion.AssemblyInfo.cs
+F:\DSA roadmap\TempatureConversion\obj\Debug\net9.0\TempatureConversion.csproj.CoreCompileInputs.cache
+F:\DSA roadmap\TempatureConversion\obj\Debug\net9.0\TempatureConversion.sourcelink.json
+F:\DSA roadmap\TempatureConversion\obj\Debug\net9.0\TempatureConversion.dll
+F:\DSA roadmap\TempatureConversion\obj\Debug\net9.0\refint\TempatureConversion.dll
+F:\DSA roadmap\TempatureConversion\obj\Debug\net9.0\TempatureConversion.pdb
+F:\DSA roadmap\TempatureConversion\obj\Debug\net9.0\TempatureConversion.genruntimeconfig.cache
+F:\DSA roadmap\TempatureConversion\obj\Debug\net9.0\ref\TempatureConversion.dll
