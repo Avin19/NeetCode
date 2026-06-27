@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DistanceBetweenTwoPoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9372d1817a7d696e82ee5ab6f06c092c24758ee0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42657382a2a0daa69108b07b1ce0863b83a555fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("DistanceBetweenTwoPoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DistanceBetweenTwoPoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
