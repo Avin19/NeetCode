@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DSA roadmap\\IsAnagram\\IsAnagram.csproj": {}
+    "F:\\DSA roadmap\\Radius\\Radius.csproj": {}
   },
   "projects": {
-    "F:\\DSA roadmap\\IsAnagram\\IsAnagram.csproj": {
+    "F:\\DSA roadmap\\Radius\\Radius.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DSA roadmap\\IsAnagram\\IsAnagram.csproj",
-        "projectName": "IsAnagram",
-        "projectPath": "F:\\DSA roadmap\\IsAnagram\\IsAnagram.csproj",
+        "projectUniqueName": "F:\\DSA roadmap\\Radius\\Radius.csproj",
+        "projectName": "Radius",
+        "projectPath": "F:\\DSA roadmap\\Radius\\Radius.csproj",
         "packagesPath": "C:\\Users\\avina\\.nuget\\packages\\",
-        "outputPath": "F:\\DSA roadmap\\IsAnagram\\obj\\",
+        "outputPath": "F:\\DSA roadmap\\Radius\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -23,15 +23,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +48,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",

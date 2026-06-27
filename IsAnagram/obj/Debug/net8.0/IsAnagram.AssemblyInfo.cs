@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IsAnagram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90687aae7f0d581739d0aee3b9ef176221a05cc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b495a65a720f6a02f1efcc66d25e9c84b362f59a")]
 [assembly: System.Reflection.AssemblyProductAttribute("IsAnagram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IsAnagram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
