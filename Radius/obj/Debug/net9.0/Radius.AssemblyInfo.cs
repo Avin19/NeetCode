@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Radius")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a245002b8d5c3188808c61aba7a1d729394ce3ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c85e12102f328f7c55fd20c4de79296990bf3555")]
 [assembly: System.Reflection.AssemblyProductAttribute("Radius")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Radius")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

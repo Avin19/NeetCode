@@ -11,3 +11,4 @@ dotnet run
 4. Read Radius of a circle - 27 June
 5. Calculate the Distance between two point of the coordinate - 27 June
 6. Tempature Conversion
+7. SumProduct
