@@ -12,3 +12,4 @@ dotnet run
 5. Calculate the Distance between two point of the coordinate - 27 June
 6. Tempature Conversion
 7. SumProduct
+8. Calculator - 27 June

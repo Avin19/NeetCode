@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Welcome to the Calculator");
+Console.WriteLine("What operation Do you want for perform ");
+Console.WriteLine("1. Addition");
+Console.WriteLine("2. Substract");
+Console.WriteLine("3. Multiplication");
+Console.WriteLine("4. Division");
+int Oper = int.Parse(Console.ReadLine());
+Console.WriteLine("Enter Number 1");
+float num1 = float.Parse(Console.ReadLine());
+Console.WriteLine("Enter Number 2");
+float num2 = float.Parse(Console.ReadLine());
+Calculator cal = new Calculator(num1, num2, Oper);
+Console.WriteLine(cal.ResultShow());

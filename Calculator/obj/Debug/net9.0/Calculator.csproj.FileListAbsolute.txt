@@ -1,0 +1,15 @@
+F:\DSA roadmap\Calculator\bin\Debug\net9.0\Calculator.exe
+F:\DSA roadmap\Calculator\bin\Debug\net9.0\Calculator.deps.json
+F:\DSA roadmap\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+F:\DSA roadmap\Calculator\bin\Debug\net9.0\Calculator.dll
+F:\DSA roadmap\Calculator\bin\Debug\net9.0\Calculator.pdb
+F:\DSA roadmap\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\DSA roadmap\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+F:\DSA roadmap\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+F:\DSA roadmap\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+F:\DSA roadmap\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json
+F:\DSA roadmap\Calculator\obj\Debug\net9.0\Calculator.dll
+F:\DSA roadmap\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+F:\DSA roadmap\Calculator\obj\Debug\net9.0\Calculator.pdb
+F:\DSA roadmap\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+F:\DSA roadmap\Calculator\obj\Debug\net9.0\ref\Calculator.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DSA roadmap\\Calculator\\Calculator.csproj": {}
+    "f:\\DSA roadmap\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "F:\\DSA roadmap\\Calculator\\Calculator.csproj": {
+    "f:\\DSA roadmap\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DSA roadmap\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "f:\\DSA roadmap\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "F:\\DSA roadmap\\Calculator\\Calculator.csproj",
+        "projectPath": "f:\\DSA roadmap\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\avina\\.nuget\\packages\\",
-        "outputPath": "F:\\DSA roadmap\\Calculator\\obj\\",
+        "outputPath": "f:\\DSA roadmap\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
