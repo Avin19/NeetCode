@@ -1,0 +1,15 @@
+F:\DSA roadmap\Weekday\bin\Debug\net9.0\Weekday.exe
+F:\DSA roadmap\Weekday\bin\Debug\net9.0\Weekday.deps.json
+F:\DSA roadmap\Weekday\bin\Debug\net9.0\Weekday.runtimeconfig.json
+F:\DSA roadmap\Weekday\bin\Debug\net9.0\Weekday.dll
+F:\DSA roadmap\Weekday\bin\Debug\net9.0\Weekday.pdb
+F:\DSA roadmap\Weekday\obj\Debug\net9.0\Weekday.GeneratedMSBuildEditorConfig.editorconfig
+F:\DSA roadmap\Weekday\obj\Debug\net9.0\Weekday.AssemblyInfoInputs.cache
+F:\DSA roadmap\Weekday\obj\Debug\net9.0\Weekday.AssemblyInfo.cs
+F:\DSA roadmap\Weekday\obj\Debug\net9.0\Weekday.csproj.CoreCompileInputs.cache
+F:\DSA roadmap\Weekday\obj\Debug\net9.0\Weekday.sourcelink.json
+F:\DSA roadmap\Weekday\obj\Debug\net9.0\Weekday.dll
+F:\DSA roadmap\Weekday\obj\Debug\net9.0\refint\Weekday.dll
+F:\DSA roadmap\Weekday\obj\Debug\net9.0\Weekday.pdb
+F:\DSA roadmap\Weekday\obj\Debug\net9.0\Weekday.genruntimeconfig.cache
+F:\DSA roadmap\Weekday\obj\Debug\net9.0\ref\Weekday.dll

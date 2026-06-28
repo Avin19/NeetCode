@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\DSA roadmap\\Weekday\\Weekday.csproj": {}
+    "F:\\DSA roadmap\\Weekday\\Weekday.csproj": {}
   },
   "projects": {
-    "f:\\DSA roadmap\\Weekday\\Weekday.csproj": {
+    "F:\\DSA roadmap\\Weekday\\Weekday.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\DSA roadmap\\Weekday\\Weekday.csproj",
+        "projectUniqueName": "F:\\DSA roadmap\\Weekday\\Weekday.csproj",
         "projectName": "Weekday",
-        "projectPath": "f:\\DSA roadmap\\Weekday\\Weekday.csproj",
+        "projectPath": "F:\\DSA roadmap\\Weekday\\Weekday.csproj",
         "packagesPath": "C:\\Users\\avina\\.nuget\\packages\\",
-        "outputPath": "f:\\DSA roadmap\\Weekday\\obj\\",
+        "outputPath": "F:\\DSA roadmap\\Weekday\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

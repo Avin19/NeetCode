@@ -13,3 +13,4 @@ dotnet run
 6. Tempature Conversion
 7. SumProduct
 8. Calculator - 27 June
+9. Weekday -27 June
